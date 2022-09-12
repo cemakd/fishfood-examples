@@ -1,0 +1,8 @@
+# apply-spec.yaml
+
+applySpecVersion: 1
+spec:
+  configSync:
+    enabled: false
+  policyController:
+    enabled: true
